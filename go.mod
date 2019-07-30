@@ -1,4 +1,4 @@
-module github.com/prometheus/procfs
+module github.com/JammyT/procfs
 
 require (
 	github.com/google/go-cmp v0.3.0
