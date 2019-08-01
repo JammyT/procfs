@@ -108,7 +108,7 @@ endif
 %: common-% ;
 
 .PHONY: common-all
-common-all: precheck style check_license lint unused build test
+common-all: precheck style check_license lint build
 
 .PHONY: common-style
 common-style:
